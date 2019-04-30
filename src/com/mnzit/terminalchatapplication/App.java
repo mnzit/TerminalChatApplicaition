@@ -8,7 +8,7 @@ package com.mnzit.terminalchatapplication;
 import com.mnzit.terminalchatapplication.handler.ClientHandler;
 import com.mnzit.terminalchatapplication.handler.RequestHandler;
 import com.mnzit.terminalchatapplication.service.UserService;
-import com.mnzit.terminalchatapplication.service.UserServiceDBImpl;
+import com.mnzit.terminalchatapplication.service.impl.UserServiceDBImpl;
 import com.mnzit.terminalchatapplication.service.impl.UserServiceImpl;
 import java.io.IOException;
 import java.net.ServerSocket;

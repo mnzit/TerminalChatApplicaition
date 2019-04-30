@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mnzit.terminalchatapplication.service;
+package com.mnzit.terminalchatapplication.service.impl;
 
 import com.mnzit.terminalchatapplication.entity.User;
 import com.mnzit.terminalchatapplication.repository.UserRepository;
 import com.mnzit.terminalchatapplication.repository.UserRepositoryImpl;
+import com.mnzit.terminalchatapplication.service.UserService;
 
 /**
  *
